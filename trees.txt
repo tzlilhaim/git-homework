@@ -3,3 +3,4 @@ Pine
 Willow
 Cedar
 Sycamore
+Cherry Tree
