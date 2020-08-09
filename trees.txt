@@ -4,3 +4,4 @@ Willow
 Cedar
 Sycamore
 Cherry Tree
+Lemon Tree
